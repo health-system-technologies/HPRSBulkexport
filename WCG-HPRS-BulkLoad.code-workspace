@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"objectscript.conn.ns": "HPRS-BULK-QC",
+		"objectscript.conn.password": "B@tty456!",
+		"objectscript.conn.username": "Nigel",
+		"objectscript.conn.active": true,
+		"objectscript.conn.host": "10.1.62.90",
+		"objectscript.conn.docker-compose.internalPort": 57772,
+		"objectscript.conn.port": 57772,
+		"objectscript.serverSideEditing": true,
+		"objectscript.suppressCompileErrorMessages": true
+	}
+}
